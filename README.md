@@ -7,7 +7,8 @@ Grunt Build Script, das die gesamte Projektstruktur kopiert und alle Javascript-
 A. Vorraussetzungen für die Ausführung des Skripts:
 
 1. Installation von Node (http://nodejs.org/download/)
-2. Die beiden Dateien Gruntfile.js und package.json müssen im gleich Verzeichnis vorliegen wir das Projekt
+2. Die beiden Dateien Gruntfile.js und package.json müssen im gleich Verzeichnis vorliegen wir das Projekt.
+'Projektname' muss in beiden Dateien durch den Namen des Projekts ersetzt werden ;-)!
 3. Erzeugen von Projekt-Abhängigkeiten in der Node.js command prompt:
 	npm install 
 4. Installation der Grunt CLI in der Node.js command prompt:
